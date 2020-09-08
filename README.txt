@@ -5,5 +5,5 @@ If you have docker and cwltool installed, all you will need to execute this pipe
 
 
 
-```cwltool FuncotatorWorkflow.cwl FuncotatorWorkflow.inputs.cwl```
+cwltool FuncotatorWorkflow.cwl FuncotatorWorkflow.inputs.cwl
 
